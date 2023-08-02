@@ -23,7 +23,7 @@ export default function ProductOverview({
             <div className="d-flex h-100">
               <div className="row">
                 {data.products.map(product => 
-                  <div className="col-md-6 col-lg-3 mh-100">
+                  <div className="col-md-6 col-lg-3">
                     <CardProduct 
                       thumb_src = {product.thumb_src}
                       thumb_alt = {product.thumb_alt}
