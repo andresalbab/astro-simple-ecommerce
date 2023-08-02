@@ -22,7 +22,12 @@ export default function ProductAccordion({
           </h5>
           <div id={"collapse" + i} className="accordion-collapse collapse" aria-labelledby={"heading" + i} data-bs-parent="#accordionEcommerce">
             <div className="accordion-body text-body text-sm opacity-8">
-              {value}
+              {value.split("\n").map((item, index) => {
+                if (index === 0) {
+                  return <>{item}</>
+                }
+                return <><br/>{item}</>
+              })}
             </div>
           </div>
         </div>
@@ -39,7 +44,12 @@ export default function ProductAccordion({
           </h5>
           <div id={"collapse" + i} className="accordion-collapse collapse show" aria-labelledby={"heading" + i} data-bs-parent="#accordionEcommerce">
             <div className="accordion-body text-body text-sm opacity-8">
-              {value}
+              {value.split("\n").map((item, index) => {
+                if (index === 0) {
+                  return <>{item}</>
+                }
+                return <><br/>{item}</>
+              })}
             </div>
           </div>
         </div>

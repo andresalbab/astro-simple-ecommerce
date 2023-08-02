@@ -1,366 +1,812 @@
 {
-  "products": [
-    {
-      "id": "01",
-      "thumb_src": "/images/suit-3.jpg",
-      "thumb_alt": "watch-image",
-      "images": [
-        {
-          "src": "https://images.unsplash.com/photo-1611930021592-a8cfd5319ceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-          "alt": "first_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
-          "alt": "second_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1513116476489-7635e79feb27?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
-          "alt": "third_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-          "alt": "fourth_image"
+  "products":[
+     {
+        "id":"001",
+        "thumb_src":"./public/images/thumb/1.jpg",
+        "thumb_alt":"cajas_organizadoras",
+        "images":[
+           {
+              "src":"../public/images/products/1A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/1B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/1C.jpg",
+              "alt":"imagen_3"
+           },
+           {
+              "src":"../public/images/products/1D.jpg",
+              "alt":"imagen_4"
+           }
+        ],
+        "title":"Cajas organizadoras",
+        "price":265000,
+        "description":"2 cajas organizadoras color crema con manijas",
+        "full_description":"2 cajas organizadoras color crema con manijas",
+        "data":{
+           "Características":"Marca: Begônia\nColor: Crema\nUnidades: 6\nPlegable: Si\nMaterial: 50% algodón y poliéster\nMedidas: Largo x Ancho x Altura: 27 cm x 27 cm x 27 cm"
         }
-      ],
-      "color": "8 colors",
-      "colors": [
-        "red", 
-        "blue", 
-        "green"
-      ],
-      "title": "Basic Starter Pack",
-      "price": 399,
-      "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
-      "full_description": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out.",
-      "details": "There’s nothing I really wanted to do in life that I wasn’t able to get good at. That’s my skill. I’m not really specifically talented at anything except for the ability to learn.",
-      "highlights": [
-        "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
-        "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics",
-        "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
-      ],
-      "features": [
-        "Multiple strap configuration",
-        "Water Resistant",
-        "Stainless strap loops",
-        "Ultra-soft 100% cotton"
-      ],
-      "rating": 4,
-      "reviews": 117,
-      "size": "Small",
-      "sizes": {
-        "XS": 3,
-        "S": 0,
-        "M": 1,
-        "L": 1213,
-        "XL": 6
-      },
-      "data": {
-        "Features": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you.",
-        "Care": "It really matters and then like it really doesn`t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn`t matter. Because it's about motivating the doers. Because I`m here to follow my dreams and inspire other people to follow their dreams, too.",
-        "Shipping": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?",
-        "Returns": "I always felt like I could do anything. That`s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can`t do anything, you won`t do anything. I was taught I could do everything."
-      },
-      "featuresDetails": {
-        "Origin": "Oil is a primary source of energy for various sectors, including transportation, industries, and residential use.",
-        "Material": "Oil is highly versatile and used in the production of a wide range of products. It serves as a raw material for manufacturing plastics.",
-        "Dimensions": "Oil is a crucial source of petrochemicals, which are used in the production of plastics."
-      },
-      "stock": true
-    },
-    {
-      "id": "02",
-      "thumb_src": "/images/suit-1.jpg",
-      "thumb_alt": "watch-image",
-      "images": [
-        {
-          "src": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
-          "alt": "first_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
-          "alt": "second_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1508296695146-257a814070b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80",
-          "alt": "third_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1522125123931-9304d91a42ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80",
-          "alt": "fourth_image"
+     },
+     {
+        "id":"002",
+        "thumb_src":"./public/images/thumb/2.jpg",
+        "thumb_alt":"escritorio",
+        "images":[
+           {
+              "src":"../public/images/products/2A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/2B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Escritorio",
+        "price":170000,
+        "description":"Escritorio de madera color blanco",
+        "full_description":"Escritorio de madera color blanco",
+        "data":{
+           "Características":"Marca: Pata sola Carpintería\nDimensiones: 100x60x75 (Largo x Profundo x Alto)"
         }
-      ],
-      "color": "Black",
-      "colors": ["black", "green", "white"],
-      "title": "Pink Blouse",
-      "price": 1490,
-      "rating": 5,
-      "reviews": 117,
-      "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
-      "full_description": "The 6-Pack includes two black, two white, and two heather gray Basic Tees. Sign up for our subscription service and be the first to get new, exciting colors, like our upcoming `Charcoal Gray` limited release.",
-      "features": [
-        "Multiple strap configuration",
-        "Water Resistant",
-        "Stainless strap loops",
-        "Ultra-soft 100% cotton"
-      ],
-      "size": "Medium",
-      "sizes": {
-        "XS": 3,
-        "S": 0,
-        "M": 1,
-        "L": 0,
-        "XL": 6
-      },
-      "data": {
-        "Features": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you.",
-        "Care": "It really matters and then like it really doesn`t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn`t matter. Because it's about motivating the doers. Because I`m here to follow my dreams and inspire other people to follow their dreams, too.",
-        "Shipping": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?",
-        "Returns": "I always felt like I could do anything. That`s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can`t do anything, you won`t do anything. I was taught I could do everything."
-      },
-      "featuresDetails": {
-        "Origin": "Designed by Good Goods, Inc.",
-        "Material": "Solid walnut base with rare earth magnets and powder coated steel card cover",
-        "Dimensions": "6.25 x 3.55' x 1.15'",
-        "Finish": "Hand sanded and finished with natural oil",
-        "Includes": "Wood card tray and 3 refill packs",
-        "Considerations": "Made from natural materials. Grain and color vary with each item."
-      },
-      "stock": false
-    },
-    {
-      "id": "03",
-      "thumb_src": "/images/suit-2.jpg",
-      "thumb_alt": "iMac-image",
-      "images": [
-        {
-          "src": "https://images.unsplash.com/photo-1567790350645-dbc1486a89c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-          "alt": "first_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1593088177922-aa1c5055c7b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-          "alt": "second_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1635594202056-9ea3b497e5c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-          "alt": "third_image"
-        },
-        {
-          "src": "https://images.unsplash.com/photo-1593085260707-5377ba37f868?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=600&q=80",
-          "alt": "fourth_image"
+     },
+     {
+        "id":"006",
+        "thumb_src":"./public/images/thumb/6.jpg",
+        "thumb_alt":"canasta_de_ropa",
+        "images":[
+           {
+              "src":"../public/images/products/6A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/6B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Canasta de ropa",
+        "price":80000,
+        "description":"Canasta para la ropa sucia",
+        "full_description":"Canasta para la ropa sucia",
+        "data":{
+           "Características":""
         }
-      ],
-      "color": "Yellow",
-      "colors": ["SpaceGray"],
-      "title": "Premium Suit",
-      "description": "There’s nothing I really wanted to do in life that I wasn’t able to get good at.",
-      "price": 1399,
-      "size": "Large",
-      "sizes": {
-        "XS": 3,
-        "S": 0,
-        "M": 1,
-        "L": 0,
-        "XL": 6
-      },
-      "data": {
-        "Design": "If everything I did failed - which it doesn't, it actually succeeds - just the fact that I'm willing to fail is an inspiration. People are so scared to lose that they don't even try. Like, one thing people can't say is that I'm not trying, and I'm not trying my hardest, and I'm not trying to do the best way I know how.",
-        "Material": "The time is now for it to be okay to be great. People in this world shun people for being great. For being a bright color. For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it? People are so scared to lose that they don't even try.",
-        "Considerations": "I always felt like I could do anything. That’s the main thing people are controlled by! Thoughts- their perception of themselves! They're slowed down by their perception of themselves. If you're taught you can’t do anything, you won’t do anything. I was taught I could do everything.",
-        "Included": "We’re not always in the position that we want to be at. We’re constantly growing. We’re constantly making mistakes. We’re constantly trying to express ourselves and actualize our dreams. If you have the opportunity to play this game of life you need to appreciate every moment. A lot of people don’t appreciate the moment until it’s passed."
-      },
-      "stock": true
-    },
-    {
-      "id": "04",
-      "thumb_src": "/images/suit-5.jpg",
-      "thumb_alt": "iPhone_thumb",
-      "color": "Blue",
-      "title": "iPhone",
-      "description": "That’s the main thing people are controlled by! Thoughts- their perception of themselves!",
-      "price": 1599,
-      "size": "Small",
-      "sizes": {
-        "XS": 3,
-        "S": 0,
-        "M": 1,
-        "L": 0,
-        "XL": 6
-      },
-      "stock": false
-    }
-  ],
-  "categories": [
-    {
-      "thumb_src": "/images/category1.jpg",
-      "title": "Silk Dresses",
-      "collection": "Pre-fall"
-    },
-    {
-      "thumb_src": "/images/category2.jpg",
-      "title": "Suits",
-      "collection": "Designers"
-    },
-    {
-      "thumb_src": "/images/category3.jpg",
-      "title": "Festival",
-      "collection": "Summer"
-    },
-    {
-      "thumb_src": "/images/category4.jpg",
-      "title": "Showroom",
-      "collection": "Sale"
-    },
-    {
-      "thumb_src": "/images/product10.jpg",
-      "title": "Living Sofas",
-      "collection": "Interior Design"
-    },
-    {
-      "thumb_src": "/images/category5.jpg",
-      "title": "Chairs by Designers",
-      "collection": "Sale"
-    },
-    {
-      "thumb_src": "/images/product9.jpg",
-      "title": "Home care",
-      "collection": "Products"
-    }
-  ],
-  "reviews": [
-    {
-      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
-      "name": "Hector Gibbs",
-      "date": "July 17, 2023",
-      "rating": 5,
-      "comment": "As we live, our hearts turn colder. Cause pain is what we go through as we become older. We get insulted by others, lose trust for those others. We get back stabbed by friends. ",
-      "productID": "01"
-    },
-    {
-      "avatar": "https://images.unsplash.com/photo-1618077360395-f3068be8e001?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
-      "name": "Willie Manson",
-      "date": "Aug 18, 2023",
-      "rating": 4,
-      "comment": "It really matters and then like it really doesn’t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn’t matter.",
-      "productID": "01"
-    },
-    {
-      "avatar": "https://images.unsplash.com/photo-1485893086445-ed75865251e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
-      "name": "Mary Doyle",
-      "date": "Nov 11, 2023",
-      "rating": 5,
-      "comment": "It really matters and then like it really doesn’t matter. What matters is the people who are sparked by it. And the people who are like offended by it, it doesn’t matter.",
-      "productID": "01"
-    },
-    {
-      "avatar": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
-      "name": "Joe Molly",
-      "date": "Mar 23, 2023",
-      "rating": 3,
-      "comment": "It’s like a little kid, a little boy, looking at colors, and no one told him what colors are good, before somebody tells you you shouldn’t like pink.",
-      "productID": "01"
-    },
-    {
-      "avatar": "https://images.unsplash.com/photo-1534126416832-a88fdf2911c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
-      "name": "Keisha Megan",
-      "date": "Jun 21, 2023",
-      "rating": 4,
-      "comment": "For standing out. But the time is now to be okay to be the greatest you. Would you believe in what you believe in, if you were the only one who believed it?",
-      "productID": "01"
-    },
-    {
-      "avatar": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
-      "name": "Kevin Klein",
-      "date": "Dec 01, 2023",
-      "rating": 5,
-      "comment": "Society has put up so many boundaries, so many limitations on what’s right and wrong that it’s almost impossible to get a pure thought out.",
-      "productID": "01"
-    }
-  ],
-  "orders": [
-    {
-      "orderNumber": 23791,
-      "products": [
-        {
-          "id": "01",
-          "status": "Processed",
-          "quantity": 1,
-          "dateModified": "March 23, 2023"
-        },
-        {
-          "id": "02",
-          "status": "Delivered",
-          "quantity": 3,
-          "dateModified": "June 28, 2023"
+     },
+     {
+        "id":"008",
+        "thumb_src":"./public/images/thumb/8.jpg",
+        "thumb_alt":"tendedero",
+        "images":[
+           {
+              "src":"../public/images/products/8A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/8B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/8C.jpg",
+              "alt":"imagen_3"
+           },
+           {
+              "src":"../public/images/products/8D.jpg",
+              "alt":"imagen_4"
+           }
+        ],
+        "title":"Tendedero",
+        "price":100000,
+        "description":"Con el tendedero de piso puedes sacar el máximo provecho a los pequeños espacios de tu casa",
+        "full_description":"Con el tendedero de piso puedes sacar el máximo provecho a los pequeños espacios de tu casa. Úsalo en el balcón, la zona de ropas, la terraza, el patio o la cocina. Es liviano, resistente a la humedad y se puede guardar cuando no se está usando.",
+        "data":{
+           "Características":"Color: Blanco\nPlegable: Si\nDimensiones: 130 cm X 51 cm X 83 cm\nPeso máximo soportado: 20 kg"
         }
-      ],
-      "payment": {
-        "cardNumber": "0042",
-        "expiringDate": "06/26"
-      },
-      "date": "March 23, 2023",
-      "address": "362 Ridgewood, Alaska 99669, USA",
-      "email": "michael@email.com",
-      "phoneNumber": "(808) 791-6935"
-    },
-    {
-      "orderNumber": "WB2341",
-      "products": [
-        {
-          "id": "03",
-          "status": "Order Placed",
-          "quantity": 1,
-          "dateModified": "March 23, 2023"
+     },
+     {
+        "id":"010",
+        "thumb_src":"./public/images/thumb/10.jpg",
+        "thumb_alt":"sillas_de_barra",
+        "images":[
+           {
+              "src":"../public/images/products/10.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Sillas de barra",
+        "price":90000,
+        "description":"Sillas de barra giratorias en madera",
+        "full_description":"Sillas de barra giratorias en madera, forro color beige",
+        "data":{
+           "Características":"Altura: 80cm"
         }
-      ],
-      "payment": {
-        "cardNumber": "4119",
-        "expiringDate": "06/26"
-      },
-      "date": "March 28, 2023",
-      "address": "362 Ridgewood Dr, Soldotna, Alaska 99669, USA",
-      "email": "john@email.com",
-      "phoneNumber": "(307) 612-7721"
-    },
-    {
-      "orderNumber": "010110",
-      "products": [
-        {
-          "id": "04",
-          "status": "Order Placed",
-          "quantity": 1,
-          "dateModified": "Sep 09, 2023"
-        },
-        {
-          "id": "01",
-          "status": "Shipped",
-          "quantity": 1,
-          "dateModified": "Sep 12, 2023"
-        },
-        {
-          "id": "02",
-          "status": "Delivered",
-          "quantity": 1,
-          "dateModified": "Sep 13, 2023"
+     },
+     {
+        "id":"011",
+        "thumb_src":"./public/images/thumb/11.jpg",
+        "thumb_alt":"wafflera",
+        "images":[
+           {
+              "src":"../public/images/products/11A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/11B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/11C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Wafflera",
+        "price":120000,
+        "description":"Wafflera circular hamilton beach, muy pocos usos y en perfecto estado",
+        "full_description":"Wafflera circular hamilton beach, muy pocos usos y en perfecto estado",
+        "data":{
+           "Características":""
         }
-      ],
-      "payment": {
-        "cardNumber": "5290",
-        "expiringDate": "11/27"
-      },
-      "date": "Sep 07, 2023",
-      "address": "362 Ridgewood, Alaska 99669, USA",
-      "email": "doe@email.com",
-      "phoneNumber": "(307) 682-8835"
-    }
-  ],
-  "shoppingCart": [
-    "01", 
-    "02", 
-    "03"
-  ],
-  "shoppingCart2": [ 
-    "02", 
-    "03",
-    "04"
+     },
+     {
+        "id":"012",
+        "thumb_src":"./public/images/thumb/12.jpg",
+        "thumb_alt":"raclette",
+        "images":[
+           {
+              "src":"../public/images/products/13A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/13B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/13C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Raclette",
+        "price":325000,
+        "description":"Raclette marca Hamilton beach completamente nueva",
+        "full_description":"Raclette marca Hamilton beach completamente nueva",
+        "data":{
+           "Características":"100% nueva"
+        }
+     },
+     {
+        "id":"013",
+        "thumb_src":"./public/images/thumb/13.jpeg",
+        "thumb_alt":"lavadora/secadora",
+        "images":[
+           {
+              "src":"../public/images/products/13A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/13B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Lavadora/secadora",
+        "price":2500000,
+        "description":"Lavadora blanca marca Samsung",
+        "full_description":"Lavadora blanca marca Samsung. Incluye sistema de selección de agua automático, mangueras de agua fría y caliente, manguera de desagüe",
+        "data":{
+           "Características":"Capacidad de carga: 20 kilogramos\nDimensiones: Ancho x Alto x Fondo 69x98x80cm"
+        }
+     },
+     {
+        "id":"014",
+        "thumb_src":"./public/images/thumb/14.jpg",
+        "thumb_alt":"nevera",
+        "images":[
+           {
+              "src":"../public/images/products/14A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/14B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Nevera",
+        "price":1700000,
+        "description":"Nevera plateada marca Samsung",
+        "full_description":"Nevera plateada marca Samsung. Incluye Dispensador de Agua manual, bandeja de huevos, 4 separadores de compartimientos, luz interior.",
+        "data":{
+           "Características":"Almacenamiento: 368 litros.\nDimensiones: Ancho x alto x fondo 68x172x67cm"
+        }
+     },
+     {
+        "id":"015",
+        "thumb_src":"./public/images/thumb/15.jpg",
+        "thumb_alt":"ganchos_de_sabanas",
+        "images":[
+           {
+              "src":"../public/images/products/15A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/15B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/15C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Ganchos de sabanas",
+        "price":56000,
+        "description":"Gancho tendedero de acero para secar cobijas pesadas",
+        "full_description":"Gancho tendedero de acero para secar cobijas pesadas, colcha, edredón, sábanas, funda de colchón, etc.",
+        "data":{
+           "Características":"Color: Blanco\nUnidades: 2"
+        }
+     },
+     {
+        "id":"016",
+        "thumb_src":"./public/images/thumb/16.jpg",
+        "thumb_alt":"sillas_de_balcón_",
+        "images":[
+           {
+              "src":"../public/images/products/16A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/16B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Sillas de balcón",
+        "price":225000,
+        "description":"Protección UV para proteger de luz y agua",
+        "full_description":"Protección UV para proteger de luz y agua. Aptas para interiores y exteriores",
+        "data":{
+           "Características":"Medidas (cm): 50 ancho, 52 largo, 81 alto\nMaterial: Polipropileno (Plástico)\nResistencia: 130 kg"
+        }
+     },
+     {
+        "id":"017",
+        "thumb_src":"./public/images/thumb/17.jpg",
+        "thumb_alt":"televisor",
+        "images":[
+           {
+              "src":"../public/images/products/17.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Smart TV 43 pulgadas",
+        "price":1300000,
+        "description":"Smart TV 43 pulgadas, con control remoto incluído",
+        "full_description":"Smart TV 43 pulgadas, con control remoto incluído",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"018",
+        "thumb_src":"./public/images/thumb/18.jpg",
+        "thumb_alt":"freidora_de_aire",
+        "images":[
+           {
+              "src":"../public/images/products/18A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/18B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/18C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Freidora de aire",
+        "price":160000,
+        "description":"Freidora de aire en perfecto estado con 1",
+        "full_description":"Freidora de aire en perfecto estado con 1.5 años de uso",
+        "data":{
+           "Características":"Marca: Nuo home\nColor: Negro\nCapacidad: 3.2 litros"
+        }
+     },
+     {
+        "id":"019",
+        "thumb_src":"./public/images/thumb/19.jpg",
+        "thumb_alt":"Plancha",
+        "images":[
+           {
+              "src":"../public/images/products/19A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/19B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/19C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Plancha",
+        "price":50000,
+        "description":"Plancha",
+        "full_description":"Plancha",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"020",
+        "thumb_src":"./public/images/thumb/20.jpg",
+        "thumb_alt":"Escalera",
+        "images":[
+           {
+              "src":"../public/images/products/20A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/20B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/20C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Escalera",
+        "price":50000,
+        "description":"Escalera",
+        "full_description":"Escalera",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"022",
+        "thumb_src":"./public/images/thumb/22.jpg",
+        "thumb_alt":"cuadro_de_fotos",
+        "images":[
+           {
+              "src":"../public/images/products/22.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Cuadro de fotos",
+        "price":60000,
+        "description":"Cuadro de fotos",
+        "full_description":"Cuadro de fotos",
+        "data":{
+           "Características":"Tamaño de fotos: 10x15cm\nCantidad de fotos: 10"
+        }
+     },
+     {
+        "id":"023",
+        "thumb_src":"./public/images/thumb/23.jpg",
+        "thumb_alt":"equipo_de_sonido",
+        "images":[
+           {
+              "src":"../public/images/products/23A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/23B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Equipo de sonido",
+        "price":250000,
+        "description":"Equipo de sonido Sony de 400W en perfecto estado",
+        "full_description":"Equipo de sonido Sony de 400W en perfecto estado",
+        "data":"Marca: Sony\nModelo: Genezi MHC-GT222\nPotencia: 400 W\nConectividad: AUDIO, CD, CINTA,SINTONIZADOR,USB\nFormato del minicomponente: Tradicional\nFormatos de audio: Altavoces, Ecualizador 3 bandas\nConexiones: CONEXIÓN USB, ENTRADA DE LÍNEA DE AUDIO (ANALÓGICA)"
+     },
+     {
+        "id":"024",
+        "thumb_src":"./public/images/thumb/24.jpg",
+        "thumb_alt":"sanduchera",
+        "images":[
+           {
+              "src":"../public/images/products/24A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/24B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Sanduchera",
+        "price":60000,
+        "description":"Sanduchera",
+        "full_description":"Sanduchera",
+        "data":{
+           "Características":"Marca: Black&Decker"
+        }
+     },
+     {
+        "id":"025",
+        "thumb_src":"./public/images/thumb/25.jpg",
+        "thumb_alt":"licuadora",
+        "images":[
+           {
+              "src":"../public/images/products/25A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/25B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Licuadora",
+        "price":50000,
+        "description":"Licuadora",
+        "full_description":"Licuadora",
+        "data":{
+           "Características":"Marca: Oster\n2 velocidades y 1 pulso\nVaso de vidrio refractario de 1.5 lt"
+        }
+     },
+     {
+        "id":"026",
+        "thumb_src":"./public/images/thumb/26.jpg",
+        "thumb_alt":"lámpara",
+        "images":[
+           {
+              "src":"../public/images/products/26A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/26B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Lámpara",
+        "price":30000,
+        "description":"Lámpara",
+        "full_description":"Lámpara",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"028",
+        "thumb_src":"./public/images/thumb/28.jpg",
+        "thumb_alt":"mancuernas",
+        "images":[
+           {
+              "src":"../public/images/products/28.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Mancuernas",
+        "price":40000,
+        "description":"Mancuernas",
+        "full_description":"Mancuernas",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"032",
+        "thumb_src":"./public/images/thumb/32.jpg",
+        "thumb_alt":"ukelele",
+        "images":[
+           {
+              "src":"../public/images/products/32A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/32B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Ukelele",
+        "price":150000,
+        "description":"Ukelele",
+        "full_description":"Perfecto para la iniciación musical de niños y adultos.",
+        "data":{
+           "Características":"Nombre: UKULELE CONCIERTO\nReferencia: UK-23Z NST KALANI\nMarca: KALANI\nEstuche: No incluye estuche\nMadera: Elaborado en Pino y Abeto\nTamaño: 58cm"
+        }
+     },
+     {
+        "id":"040",
+        "thumb_src":"./public/images/thumb/40.jpg",
+        "thumb_alt":"bandejas",
+        "images":[
+           {
+              "src":"../public/images/products/40A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/40B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/40C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Bandeja decorativa",
+        "price":35000,
+        "description":"Bandeja decorativa",
+        "full_description":"Bandeja decorativa",
+        "data":{
+           "Características":"Marca: ZARA HOME"
+        }
+     },
+     {
+        "id":"046",
+        "thumb_src":"./public/images/thumb/46.jpg",
+        "thumb_alt":"canasta_de_huevos",
+        "images":[
+           {
+              "src":"../public/images/products/46.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Canasta de huevos",
+        "price":45000,
+        "description":"Canasta de huevos",
+        "full_description":"Canasta de huevos",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"047",
+        "thumb_src":"./public/images/thumb/47.jpg",
+        "thumb_alt":"porta_rollo",
+        "images":[
+           {
+              "src":"../public/images/products/47A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/47B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Porta Rollo vertical",
+        "price":30000,
+        "description":"Soporte para rollo de papel absorbente.",
+        "full_description":"Soporte para rollo de papel absorbente.",
+        "data":{
+           "Características":"Material: Bambu"
+        }
+     },
+     {
+        "id":"048",
+        "thumb_src":"./public/images/thumb/48.jpg",
+        "thumb_alt":"ganchos_pantalones",
+        "images":[
+           {
+              "src":"../public/images/products/48.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Ganchos para pantalones/camisas",
+        "price":20000,
+        "description":"Ganchos para pantalones y/o camisas",
+        "full_description":"Ganchos para pantalones y/o camisas. Valor por unidad. 4 unidades disponibles",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"049",
+        "thumb_src":"./public/images/thumb/49.jpg",
+        "thumb_alt":"jarrón_decorativo",
+        "images":[
+           {
+              "src":"../public/images/products/49A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/49B.jpg",
+              "alt":"imagen_2"
+           },
+           {
+              "src":"../public/images/products/49C.jpg",
+              "alt":"imagen_3"
+           }
+        ],
+        "title":"Jarrón decorativo",
+        "price":20000,
+        "description":"Jarrón decorativo",
+        "full_description":"Jarrón decorativo",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"050",
+        "thumb_src":"./public/images/thumb/50.jpg",
+        "thumb_alt":"florero",
+        "images":[
+           {
+              "src":"../public/images/products/50.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Florero",
+        "price":20000,
+        "description":"Florero",
+        "full_description":"Florero",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"051",
+        "thumb_src":"./public/images/thumb/51.jpg",
+        "thumb_alt":"servilletero",
+        "images":[
+           {
+              "src":"../public/images/products/51.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Servilletero",
+        "price":10000,
+        "description":"Servilletero",
+        "full_description":"Servilletero",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"052",
+        "thumb_src":"./public/images/thumb/52.jpg",
+        "thumb_alt":"portavasos_redondo",
+        "images":[
+           {
+              "src":"../public/images/products/52.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Porta vasos redondo",
+        "price":20000,
+        "description":"Porta vasos redondo",
+        "full_description":"Porta vasos redondo",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"053",
+        "thumb_src":"./public/images/thumb/53.jpg",
+        "thumb_alt":"portavasos_cuadrado",
+        "images":[
+           {
+              "src":"../public/images/products/53.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Porta vasos cuadrado",
+        "price":20000,
+        "description":"Porta vasos cuadrado",
+        "full_description":"Porta vasos cuadrado",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"054",
+        "thumb_src":"./public/images/thumb/54.jpg",
+        "thumb_alt":"bandeja_redonda",
+        "images":[
+           {
+              "src":"../public/images/products/54.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Bandeja redonda para snacks",
+        "price":40000,
+        "description":"Bandeja redonda para snacks",
+        "full_description":"Bandeja redonda para snacks",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"055",
+        "thumb_src":"./public/images/thumb/55.jpg",
+        "thumb_alt":"caja_te",
+        "images":[
+           {
+              "src":"../public/images/products/55A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/55B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Caja para tés",
+        "price":30000,
+        "description":"Caja para tés",
+        "full_description":"Caja para tés",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"056",
+        "thumb_src":"./public/images/thumb/56.jpg",
+        "thumb_alt":"toallas_microfibra",
+        "images":[
+           {
+              "src":"../public/images/products/56.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Toallas de microfibra",
+        "price":40000,
+        "description":"Toallas de microfibra",
+        "full_description":"Toallas de microfibra",
+        "data":{
+           "Características":"Paquete x6. Completamente nuevas"
+        }
+     },
+     {
+        "id":"057",
+        "thumb_src":"./public/images/thumb/57.jpg",
+        "thumb_alt":"frutero",
+        "images":[
+           {
+              "src":"../public/images/products/57.jpg",
+              "alt":"imagen_1"
+           }
+        ],
+        "title":"Frutero",
+        "price":30000,
+        "description":"Frutero",
+        "full_description":"Frutero",
+        "data":{
+           "Características":"Material: Vidrio y base metálica"
+        }
+     },
+     {
+        "id":"058",
+        "thumb_src":"./public/images/thumb/58.jpg",
+        "thumb_alt":"exprimidor",
+        "images":[
+           {
+              "src":"../public/images/products/58A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/58B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Exprimidor de cítricos",
+        "price":75000,
+        "description":"Exprimidor de cítricos",
+        "full_description":"Exprimidor de cítricos",
+        "data":{
+           "Características":""
+        }
+     },
+     {
+        "id":"059",
+        "thumb_src":"./public/images/thumb/59.jpg",
+        "thumb_alt":"wafflera_mini",
+        "images":[
+           {
+              "src":"../public/images/products/59A.jpg",
+              "alt":"imagen_1"
+           },
+           {
+              "src":"../public/images/products/59B.jpg",
+              "alt":"imagen_2"
+           }
+        ],
+        "title":"Mini Wafflera",
+        "price":30000,
+        "description":"Mini Wafflera",
+        "full_description":"Mini Wafflera",
+        "data":{
+           "Características":""
+        }
+     }
   ]
 }

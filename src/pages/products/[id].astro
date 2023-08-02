@@ -1,0 +1,84 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import data from '../../../public/data.json';
+import '../../../assets/scss/astro-ecommerce.scss';
+import Navbar from '../../components/navbar';
+import ProductAccordion from '../../components/products/productAccordion';
+
+import { Carousel } from 'astro-bootstrap';
+import type { CarouselSlideType } from 'astro-bootstrap';
+
+export function getStaticPaths() {
+  return data.products.map(product => ({
+    params: {id: product.id},
+    props: {product}
+  }));
+}
+
+const { id, title, price, full_description, images, highlights, details, sizes, colors, data, rating, reviews } = Astro.props.product;
+
+const slides: CarouselSlideType[] = images.map((img, i) => {
+    return {
+        img: img.src,
+        alt: img.alt,
+        active: i == 0 ? true : false
+    }
+})
+
+const carouselId = 'carouselExampleBasic';
+
+---
+<Layout title="Product Page">
+	<main>
+    <Navbar />
+    <div class="container mt-5">
+        <div class="card card-product card-plain">
+            <div class="row">
+                {(images.length != 0) && 
+                    <div class="col-12 col-lg-5"> 
+                        <Carousel {id} fade>
+                            <Carousel.Indicators {id} {slides} />
+                            <Carousel.Inner>
+                            {
+                                slides.map((slide) => (
+                                <Carousel.Item active={slide.active}>
+                                    <img
+                                    src={slide.img}
+                                    class="d-block w-100 rounded-2 img-fluid h-auto"
+                                    alt={slide.alt}
+                                    />
+                                </Carousel.Item>
+                                ))
+                            }
+                            </Carousel.Inner>
+                            <Carousel.Controls id={id} />
+                        </Carousel>
+                    </div> 
+                }
+                <div class="col-12 col-lg-7 mt-5 mt-lg-0">
+                {(title.length != 0) && 
+                    <h2>{title}</h2>
+                }
+                {(price.length != 0) && 
+                    <>
+                    <div class="d-flex mb-3">
+                        <h4 class="font-weight-normal">${price.toLocaleString()}</h4>
+                        <input class="opacity-0" defaultValue={price} />
+                    </div>
+                    </>
+                }
+                <p class="mt-4">{full_description}</p>
+                
+                <div class="d-flex align-items-center mt-4">
+                    <a class="btn btn-dark btn-lg mb-0 me-4" href={"https://wa.me/573112018024/?text=" + encodeURIComponent('Hola Estefi, ¿cómo vas? Vi la página de la venta de garaje y estoy interesado en comprar este producto:\n\n' + title)} target="_blank" >¡Lo quiero!</a>
+                </div>
+                    <ProductAccordion data={data} />
+                    <p class="mt-4">NOTA: El precio <b>NO</b> incluye el envío</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+  </main>
+
+</Layout>

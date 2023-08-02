@@ -1,3 +1,5 @@
+import { Carousel } from 'astro-bootstrap';
+
 interface Props {
   images: ({
     src: string;
@@ -12,6 +14,9 @@ export default function ProductImages({
   return (
     <>
       <div className="col-12 col-lg-6">
+      
+
+
         <img className="w-90 rounded-2" src={images[0].src} alt={images[0].alt} />
         <div className="d-flex mt-4">
           <img className="w-20 me-4 rounded-2" src={images[0].src} alt={images[0].alt} />

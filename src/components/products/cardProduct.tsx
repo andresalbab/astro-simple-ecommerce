@@ -1,5 +1,3 @@
-import ProductBadge from './productBadge';
-
 interface Props {
   thumb_src: string;
   thumb_alt: string;
@@ -9,6 +7,8 @@ interface Props {
   color: string;
   colors: string[];
   position: string;
+  id: string;
+  isSoldOut: boolean;
 }
 
 export default function CardProduct({
@@ -19,7 +19,9 @@ export default function CardProduct({
   price,
   color,
   colors,
-  position
+  position,
+  id,
+  isSoldOut
 }: Props) {
 
   const classList = "card-body " + "text-" + position;
@@ -27,8 +29,9 @@ export default function CardProduct({
   return (
     <>
       <div className="card card-product border mb-5 shadow-xs border-radius-lg">
-        <a href="#">
-          <div className="height-350">
+        <a href={`./products/${id}`} style={ isSoldOut ? {pointerEvents: 'none'} : {} }>
+          {(isSoldOut) && <span className="sold-out-overlay">Vendido</span>}
+          <div className="height-300">
             <img className="w-100 h-100 p-4 rounded-top" src={`${import.meta.env.BASE_URL}${thumb_src}`} alt={thumb_alt} />
           </div>
           <div className={classList}>
@@ -44,14 +47,10 @@ export default function CardProduct({
             {(description) && 
               <p className="text-body">{description}</p>
             }
-           
-            {(colors) &&
-              <ProductBadge colors={colors} />
-            }
             
             {(price) && 
               <h4 className="mb-0 text-lg mt-1 mb-3">
-                ${price.toLocaleString()}
+                ${price.toLocaleString("es-CO")}
               </h4>
             }
 
