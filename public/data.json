@@ -2,23 +2,23 @@
   "products":[
      {
         "id":"001",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/1.jpg",
+        "thumb_src":"images/thumbs/1.jpg",
         "thumb_alt":"cajas_organizadoras",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/1A.jpg",
+              "src":"images/products/1A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/1B.jpg",
+              "src":"images/products/1B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/1C.jpg",
+              "src":"images/products/1C.jpg",
               "alt":"imagen_3"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/1D.jpg",
+              "src":"images/products/1D.jpg",
               "alt":"imagen_4"
            }
         ],
@@ -32,15 +32,15 @@
      },
      {
         "id":"002",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/2.jpg",
+        "thumb_src":"images/thumbs/2.jpg",
         "thumb_alt":"escritorio",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/2A.jpg",
+              "src":"images/products/2A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/2B.jpg",
+              "src":"images/products/2B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -54,15 +54,15 @@
      },
      {
         "id":"006",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/6.jpg",
+        "thumb_src":"images/thumbs/6.jpg",
         "thumb_alt":"canasta_de_ropa",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/6A.jpg",
+              "src":"images/products/6A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/6B.jpg",
+              "src":"images/products/6B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -76,23 +76,23 @@
      },
      {
         "id":"008",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/8.jpg",
+        "thumb_src":"images/thumbs/8.jpg",
         "thumb_alt":"tendedero",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/8A.jpg",
+              "src":"images/products/8A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/8B.jpg",
+              "src":"images/products/8B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/8C.jpg",
+              "src":"images/products/8C.jpg",
               "alt":"imagen_3"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/8D.jpg",
+              "src":"images/products/8D.jpg",
               "alt":"imagen_4"
            }
         ],
@@ -106,11 +106,11 @@
      },
      {
         "id":"010",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/10.jpg",
+        "thumb_src":"images/thumbs/10.jpg",
         "thumb_alt":"sillas_de_barra",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/10.jpg",
+              "src":"images/products/10.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -124,19 +124,19 @@
      },
      {
         "id":"011",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/11.jpg",
+        "thumb_src":"images/thumbs/11.jpg",
         "thumb_alt":"wafflera",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/11A.jpg",
+              "src":"images/products/11A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/11B.jpg",
+              "src":"images/products/11B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/11C.jpg",
+              "src":"images/products/11C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -150,19 +150,19 @@
      },
      {
         "id":"012",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/12.jpg",
+        "thumb_src":"images/thumbs/12.jpg",
         "thumb_alt":"raclette",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/13A.jpg",
+              "src":"images/products/13A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/13B.jpg",
+              "src":"images/products/13B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/13C.jpg",
+              "src":"images/products/13C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -176,15 +176,15 @@
      },
      {
         "id":"013",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/13.jpeg",
+        "thumb_src":"images/thumbs/13.jpeg",
         "thumb_alt":"lavadora/secadora",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/13A.jpg",
+              "src":"images/products/13A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/13B.jpg",
+              "src":"images/products/13B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -198,15 +198,15 @@
      },
      {
         "id":"014",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/14.jpg",
+        "thumb_src":"images/thumbs/14.jpg",
         "thumb_alt":"nevera",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/14A.jpg",
+              "src":"images/products/14A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/14B.jpg",
+              "src":"images/products/14B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -220,19 +220,19 @@
      },
      {
         "id":"015",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/15.jpg",
+        "thumb_src":"images/thumbs/15.jpg",
         "thumb_alt":"ganchos_de_sabanas",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/15A.jpg",
+              "src":"images/products/15A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/15B.jpg",
+              "src":"images/products/15B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/15C.jpg",
+              "src":"images/products/15C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -246,15 +246,15 @@
      },
      {
         "id":"016",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/16.jpg",
+        "thumb_src":"images/thumbs/16.jpg",
         "thumb_alt":"sillas_de_balcón_",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/16A.jpg",
+              "src":"images/products/16A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/16B.jpg",
+              "src":"images/products/16B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -268,11 +268,11 @@
      },
      {
         "id":"017",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/17.jpg",
+        "thumb_src":"images/thumbs/17.jpg",
         "thumb_alt":"televisor",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/17.jpg",
+              "src":"images/products/17.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -286,19 +286,19 @@
      },
      {
         "id":"018",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/18.jpg",
+        "thumb_src":"images/thumbs/18.jpg",
         "thumb_alt":"freidora_de_aire",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/18A.jpg",
+              "src":"images/products/18A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/18B.jpg",
+              "src":"images/products/18B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/18C.jpg",
+              "src":"images/products/18C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -312,19 +312,19 @@
      },
      {
         "id":"019",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/19.jpg",
+        "thumb_src":"images/thumbs/19.jpg",
         "thumb_alt":"Plancha",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/19A.jpg",
+              "src":"images/products/19A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/19B.jpg",
+              "src":"images/products/19B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/19C.jpg",
+              "src":"images/products/19C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -338,19 +338,19 @@
      },
      {
         "id":"020",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/20.jpg",
+        "thumb_src":"images/thumbs/20.jpg",
         "thumb_alt":"Escalera",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/20A.jpg",
+              "src":"images/products/20A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/20B.jpg",
+              "src":"images/products/20B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/20C.jpg",
+              "src":"images/products/20C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -364,11 +364,11 @@
      },
      {
         "id":"022",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/22.jpg",
+        "thumb_src":"images/thumbs/22.jpg",
         "thumb_alt":"cuadro_de_fotos",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/22.jpg",
+              "src":"images/products/22.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -382,15 +382,15 @@
      },
      {
         "id":"023",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/23.jpg",
+        "thumb_src":"images/thumbs/23.jpg",
         "thumb_alt":"equipo_de_sonido",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/23A.jpg",
+              "src":"images/products/23A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/23B.jpg",
+              "src":"images/products/23B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -402,15 +402,15 @@
      },
      {
         "id":"024",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/24.jpg",
+        "thumb_src":"images/thumbs/24.jpg",
         "thumb_alt":"sanduchera",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/24A.jpg",
+              "src":"images/products/24A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/24B.jpg",
+              "src":"images/products/24B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -424,15 +424,15 @@
      },
      {
         "id":"025",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/25.jpg",
+        "thumb_src":"images/thumbs/25.jpg",
         "thumb_alt":"licuadora",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/25A.jpg",
+              "src":"images/products/25A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/25B.jpg",
+              "src":"images/products/25B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -446,15 +446,15 @@
      },
      {
         "id":"026",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/26.jpg",
+        "thumb_src":"images/thumbs/26.jpg",
         "thumb_alt":"lámpara",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/26A.jpg",
+              "src":"images/products/26A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/26B.jpg",
+              "src":"images/products/26B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -468,11 +468,11 @@
      },
      {
         "id":"028",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/28.jpg",
+        "thumb_src":"images/thumbs/28.jpg",
         "thumb_alt":"mancuernas",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/28.jpg",
+              "src":"images/products/28.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -486,15 +486,15 @@
      },
      {
         "id":"032",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/32.jpg",
+        "thumb_src":"images/thumbs/32.jpg",
         "thumb_alt":"ukelele",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/32A.jpg",
+              "src":"images/products/32A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/32B.jpg",
+              "src":"images/products/32B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -508,19 +508,19 @@
      },
      {
         "id":"040",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/40.jpg",
+        "thumb_src":"images/thumbs/40.jpg",
         "thumb_alt":"bandejas",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/40A.jpg",
+              "src":"images/products/40A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/40B.jpg",
+              "src":"images/products/40B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/40C.jpg",
+              "src":"images/products/40C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -534,11 +534,11 @@
      },
      {
         "id":"046",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/46.jpg",
+        "thumb_src":"images/thumbs/46.jpg",
         "thumb_alt":"canasta_de_huevos",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/46.jpg",
+              "src":"images/products/46.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -552,15 +552,15 @@
      },
      {
         "id":"047",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/47.jpg",
+        "thumb_src":"images/thumbs/47.jpg",
         "thumb_alt":"porta_rollo",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/47A.jpg",
+              "src":"images/products/47A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/47B.jpg",
+              "src":"images/products/47B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -574,11 +574,11 @@
      },
      {
         "id":"048",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/48.jpg",
+        "thumb_src":"images/thumbs/48.jpg",
         "thumb_alt":"ganchos_pantalones",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/48.jpg",
+              "src":"images/products/48.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -592,19 +592,19 @@
      },
      {
         "id":"049",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/49.jpg",
+        "thumb_src":"images/thumbs/49.jpg",
         "thumb_alt":"jarrón_decorativo",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/49A.jpg",
+              "src":"images/products/49A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/49B.jpg",
+              "src":"images/products/49B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/49C.jpg",
+              "src":"images/products/49C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -618,11 +618,11 @@
      },
      {
         "id":"050",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/50.jpg",
+        "thumb_src":"images/thumbs/50.jpg",
         "thumb_alt":"florero",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/50.jpg",
+              "src":"images/products/50.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -636,11 +636,11 @@
      },
      {
         "id":"051",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/51.jpg",
+        "thumb_src":"images/thumbs/51.jpg",
         "thumb_alt":"servilletero",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/51.jpg",
+              "src":"images/products/51.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -654,11 +654,11 @@
      },
      {
         "id":"052",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/52.jpg",
+        "thumb_src":"images/thumbs/52.jpg",
         "thumb_alt":"portavasos_redondo",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/52.jpg",
+              "src":"images/products/52.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -672,11 +672,11 @@
      },
      {
         "id":"053",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/53.jpg",
+        "thumb_src":"images/thumbs/53.jpg",
         "thumb_alt":"portavasos_cuadrado",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/53.jpg",
+              "src":"images/products/53.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -690,11 +690,11 @@
      },
      {
         "id":"054",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/54.jpg",
+        "thumb_src":"images/thumbs/54.jpg",
         "thumb_alt":"bandeja_redonda",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/54.jpg",
+              "src":"images/products/54.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -708,15 +708,15 @@
      },
      {
         "id":"055",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/55.jpg",
+        "thumb_src":"images/thumbs/55.jpg",
         "thumb_alt":"caja_te",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/55A.jpg",
+              "src":"images/products/55A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/55B.jpg",
+              "src":"images/products/55B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -730,11 +730,11 @@
      },
      {
         "id":"056",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/56.jpg",
+        "thumb_src":"images/thumbs/56.jpg",
         "thumb_alt":"toallas_microfibra",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/56.jpg",
+              "src":"images/products/56.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -748,11 +748,11 @@
      },
      {
         "id":"057",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/57.jpg",
+        "thumb_src":"images/thumbs/57.jpg",
         "thumb_alt":"frutero",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/57.jpg",
+              "src":"images/products/57.jpg",
               "alt":"imagen_1"
            }
         ],
@@ -766,15 +766,15 @@
      },
      {
         "id":"058",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/58.jpg",
+        "thumb_src":"images/thumbs/58.jpg",
         "thumb_alt":"exprimidor",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/58A.jpg",
+              "src":"images/products/58A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/58B.jpg",
+              "src":"images/products/58B.jpg",
               "alt":"imagen_2"
            }
         ],
@@ -788,15 +788,15 @@
      },
      {
         "id":"059",
-        "thumb_src":"https://ik.imagekit.io/mpi935eu4/ayesale/thumbs/59.jpg",
+        "thumb_src":"images/thumbs/59.jpg",
         "thumb_alt":"wafflera_mini",
         "images":[
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/59A.jpg",
+              "src":"images/products/59A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"https://ik.imagekit.io/mpi935eu4/ayesale/products/59B.jpg",
+              "src":"images/products/59B.jpg",
               "alt":"imagen_2"
            }
         ],

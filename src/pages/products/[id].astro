@@ -19,7 +19,7 @@ const { id, title, price, full_description, images, highlights, details, sizes, 
 
 const slides: CarouselSlideType[] = images.map((img, i) => {
     return {
-        img: img.src,
+        img: `${import.meta.env.BASE_URL}${img.src}`,
         alt: img.alt,
         active: i == 0 ? true : false
     }

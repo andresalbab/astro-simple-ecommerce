@@ -32,7 +32,7 @@ export default function CardProduct({
         <a href={`./products/${id}`} style={ isSoldOut ? {pointerEvents: 'none'} : {} }>
           {(isSoldOut) && <span className="sold-out-overlay">Vendido</span>}
           <div className="height-300">
-            <img className="w-100 h-100 p-4 rounded-top" src={`${thumb_src}`} alt={thumb_alt} />
+            <img className="w-100 h-100 p-4 rounded-top" src={`${import.meta.env.BASE_URL}${thumb_src}`} alt={thumb_alt} />
           </div>
           <div className={classList}>
             {(color) && 
