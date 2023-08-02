@@ -668,7 +668,8 @@
         "full_description":"Porta vasos redondo",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut": true
      },
      {
         "id":"053",
@@ -704,7 +705,8 @@
         "full_description":"Bandeja redonda para snacks",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut": true
      },
      {
         "id":"055",
