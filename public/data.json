@@ -23,9 +23,9 @@
            }
         ],
         "title":"Cajas organizadoras",
-        "price":265000,
-        "description":"2 cajas organizadoras color crema con manijas",
-        "full_description":"2 cajas organizadoras color crema con manijas",
+        "price":240000,
+        "description":"6 cajas organizadoras color crema con manijas",
+        "full_description":"6 cajas organizadoras color crema con manijas",
         "data":{
            "Características":"Marca: Begônia\nColor: Crema\nUnidades: 6\nPlegable: Si\nMaterial: 50% algodón y poliéster\nMedidas: Largo x Ancho x Altura: 27 cm x 27 cm x 27 cm"
         }
@@ -97,7 +97,7 @@
            }
         ],
         "title":"Tendedero",
-        "price":100000,
+        "price":90000,
         "description":"Con el tendedero de piso puedes sacar el máximo provecho a los pequeños espacios de tu casa",
         "full_description":"Con el tendedero de piso puedes sacar el máximo provecho a los pequeños espacios de tu casa. Úsalo en el balcón, la zona de ropas, la terraza, el patio o la cocina. Es liviano, resistente a la humedad y se puede guardar cuando no se está usando.",
         "data":{
@@ -115,7 +115,7 @@
            }
         ],
         "title":"Sillas de barra",
-        "price":90000,
+        "price":240000,
         "description":"Sillas de barra giratorias en madera",
         "full_description":"Sillas de barra giratorias en madera, forro color beige",
         "data":{
@@ -141,9 +141,9 @@
            }
         ],
         "title":"Wafflera",
-        "price":120000,
-        "description":"Wafflera circular hamilton beach, muy pocos usos y en perfecto estado",
-        "full_description":"Wafflera circular hamilton beach, muy pocos usos y en perfecto estado",
+        "price":100000,
+        "description":"Wafflera circular Hamilton Beach, muy pocos usos y en perfecto estado",
+        "full_description":"Wafflera circular Hamilton Beach, muy pocos usos y en perfecto estado",
         "data":{
            "Características":""
         }
@@ -154,15 +154,15 @@
         "thumb_alt":"raclette",
         "images":[
            {
-              "src":"images/products/13A.jpg",
+              "src":"images/products/12A.jpg",
               "alt":"imagen_1"
            },
            {
-              "src":"images/products/13B.jpg",
+              "src":"images/products/12B.jpg",
               "alt":"imagen_2"
            },
            {
-              "src":"images/products/13C.jpg",
+              "src":"images/products/12C.jpg",
               "alt":"imagen_3"
            }
         ],
@@ -191,7 +191,7 @@
         "title":"Lavadora/secadora",
         "price":2500000,
         "description":"Lavadora blanca marca Samsung",
-        "full_description":"Lavadora blanca marca Samsung. Incluye sistema de selección de agua automático, mangueras de agua fría y caliente, manguera de desagüe",
+        "full_description":"Lavadora blanca marca Samsung con 2 años de uso y en perfecto estado. Incluye sistema de selección de agua automático, mangueras de agua fría y caliente, manguera de desagüe",
         "data":{
            "Características":"Capacidad de carga: 20 kilogramos\nDimensiones: Ancho x Alto x Fondo 69x98x80cm"
         }
@@ -213,7 +213,7 @@
         "title":"Nevera",
         "price":1700000,
         "description":"Nevera plateada marca Samsung",
-        "full_description":"Nevera plateada marca Samsung. Incluye Dispensador de Agua manual, bandeja de huevos, 4 separadores de compartimientos, luz interior.",
+        "full_description":"Nevera plateada marca Samsung con 2 años de uso y en perfecto estado. Incluye Dispensador de Agua manual, bandeja de huevos, 4 separadores de compartimientos, luz interior.",
         "data":{
            "Características":"Almacenamiento: 368 litros.\nDimensiones: Ancho x alto x fondo 68x172x67cm"
         }
@@ -277,7 +277,7 @@
            }
         ],
         "title":"Smart TV 43 pulgadas",
-        "price":1300000,
+        "price":1200000,
         "description":"Smart TV 43 pulgadas, con control remoto incluído",
         "full_description":"Smart TV 43 pulgadas, con control remoto incluído",
         "data":{
