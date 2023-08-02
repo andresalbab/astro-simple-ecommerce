@@ -14,7 +14,7 @@ const Navbar = () => {
          <div className="collapse navbar-collapse" id="navigation">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href={`${import.meta.env.BASE_URL}`}>
                 Ver listado
               </a>
             </li>
