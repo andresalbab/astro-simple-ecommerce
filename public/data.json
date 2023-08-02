@@ -72,7 +72,8 @@
         "full_description":"Canasta para la ropa sucia",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"008",
@@ -120,7 +121,8 @@
         "full_description":"Sillas de barra giratorias en madera, forro color beige",
         "data":{
            "Características":"Altura: 80cm"
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"011",
@@ -146,7 +148,8 @@
         "full_description":"Wafflera circular Hamilton Beach, muy pocos usos y en perfecto estado",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"012",
@@ -334,7 +337,8 @@
         "full_description":"Plancha",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"020",
@@ -360,7 +364,8 @@
         "full_description":"Escalera",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"022",
@@ -442,7 +447,8 @@
         "full_description":"Licuadora",
         "data":{
            "Características":"Marca: Oster\n2 velocidades y 1 pulso\nVaso de vidrio refractario de 1.5 lt"
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"026",
@@ -548,7 +554,8 @@
         "full_description":"Canasta de huevos",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"047",
@@ -582,10 +589,10 @@
               "alt":"imagen_1"
            }
         ],
-        "title":"Ganchos para pantalones/camisas",
+        "title":"Gancho para pantalones/camisas",
         "price":20000,
-        "description":"Ganchos para pantalones y/o camisas",
-        "full_description":"Ganchos para pantalones y/o camisas. Valor por unidad. 4 unidades disponibles",
+        "description":"Gancho para pantalones y/o camisas",
+        "full_description":"Gancho para pantalones y/o camisas. Valor por unidad. 2 unidades disponibles",
         "data":{
            "Características":""
         }
@@ -614,7 +621,8 @@
         "full_description":"Jarrón decorativo",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"050",
@@ -650,7 +658,8 @@
         "full_description":"Servilletero",
         "data":{
            "Características":""
-        }
+        },
+        "isSoldOut":true
      },
      {
         "id":"052",
