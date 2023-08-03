@@ -22,7 +22,7 @@ export default function ProductOverview({
         <div className="row mt-5">
             <div className="d-flex h-100">
               <div className="row">
-                {data.products.map(product => 
+                {data.products.sort((a, b) => Number(a.isSoldOut) - Number(b.isSoldOut)).map(product => 
                   <div className="col-md-6 col-lg-3">
                     <CardProduct 
                       thumb_src = {product.thumb_src}

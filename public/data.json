@@ -20,7 +20,8 @@
          "full_description": "Mesa de centro color blanco",
          "data": {
              "Características": "Mesa de centro color blanco\nDimensiones: 70 cm x 40 cm x 50 cm"
-         }
+         },
+         "isSoldOut":false
      },
       {
          "id": "070",
@@ -42,7 +43,8 @@
          "full_description": "Ventilador de piso marca Aiwa de 3 velocidades. Lo usabamos para secar la ropa, funciona súper bien.",
          "data": {
              "Características": ""
-         }
+         },
+         "isSoldOut":false
      },
       {
          "id": "071",
@@ -60,7 +62,8 @@
          "full_description": "Rizador de pelo eléctrico",
          "data": {
              "Características": ""
-         }
+         },
+         "isSoldOut":false
      },
       {
          "id": "072",
@@ -78,7 +81,8 @@
          "full_description": "Juego de herramientas de 7 piezas. Ideal para uso en el carro y hogar y reparaciones en general.",
          "data": {
              "Características": "Contiene bisturí\nMartillo 8 Oz.\nDestornillador pala 6x4\nDestronillador phillips PH1 4\"\nAlicate 2 posiciones 6\"\nFlexómetro 5m"
-         }
+         },
+         "isSoldOut":false
      },
      {
          "id": "073",
@@ -104,7 +108,8 @@
          "full_description": "Color blanco. Ideal para uso en exteriores. Altura variable",
          "data": {
              "Características": "Dimensiones: 76 cm x 50 cm x 50/64/74 cm"
-         }
+         },
+         "isSoldOut":false
      },
      {
          "id": "074",
@@ -126,7 +131,8 @@
          "full_description": "Mesa plegable para uso de escritorio, color blanco. Liviano y fácil de guardar.",
          "data": {
              "Características": "Dimensiones: 95 cm x 50 cm x 72 cm"
-         }
+         },
+         "isSoldOut":false
      },
      {
          "id": "075",
@@ -148,7 +154,8 @@
          "full_description": "Colador + Bowl Marca Tasty En Plástico Azul Y Rojo. Ideal para pasta",
          "data": {
              "Características": ""
-         }
+         },
+         "isSoldOut":false
      },
       {
            "id": "007",
@@ -178,7 +185,8 @@
            "full_description": "Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos",
            "data": {
                "Características": "Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "007",
@@ -208,7 +216,8 @@
            "full_description": "Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos",
            "data": {
                "Características": "Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "001",
@@ -238,7 +247,8 @@
            "full_description": "6 cajas organizadoras color crema con manijas",
            "data": {
                "Características": "Marca: Begônia\nColor: Crema\nUnidades: 6\nPlegable: Si\nMaterial: 50% algodón y poliéster\nMedidas: Largo x Ancho x Altura: 27 cm x 27 cm x 27 cm"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "002",
@@ -260,7 +270,8 @@
            "full_description": "Escritorio de madera color blanco",
            "data": {
                "Características": "Marca: Pata sola Carpintería\nDimensiones: 100x60x75 (Largo x Profundo x Alto)"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "006",
@@ -386,7 +397,8 @@
            "full_description": "Raclette marca Hamilton beach completamente nueva",
            "data": {
                "Características": "100% nueva"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "013",
@@ -408,7 +420,8 @@
            "full_description": "Lavadora blanca marca Samsung con 2 años de uso y en perfecto estado. Incluye sistema de selección de agua automático, mangueras de agua fría y caliente, manguera de desagüe",
            "data": {
                "Características": "Capacidad de carga: 20 kilogramos\nDimensiones: Ancho x Alto x Fondo 69x98x80cm"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "014",
@@ -430,7 +443,8 @@
            "full_description": "Nevera plateada marca Samsung con 2 años de uso y en perfecto estado. Incluye Dispensador de Agua manual, bandeja de huevos, 4 separadores de compartimientos, luz interior.",
            "data": {
                "Características": "Almacenamiento: 368 litros.\nDimensiones: Ancho x alto x fondo 68x172x67cm"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "015",
@@ -456,7 +470,8 @@
            "full_description": "Gancho tendedero de acero para secar cobijas pesadas, colcha, edredón, sábanas, funda de colchón, etc.",
            "data": {
                "Características": "Color: Blanco\nUnidades: 2"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "016",
@@ -478,7 +493,8 @@
            "full_description": "Protección UV para proteger de luz y agua. Aptas para interiores y exteriores",
            "data": {
                "Características": "Medidas (cm): 50 ancho, 52 largo, 81 alto\nMaterial: Polipropileno (Plástico)\nResistencia: 130 kg"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "017",
@@ -496,7 +512,8 @@
            "full_description": "Smart TV 43 pulgadas, con control remoto incluído",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "018",
@@ -616,7 +633,10 @@
            "price": 250000,
            "description": "Equipo de sonido Sony de 400W en perfecto estado",
            "full_description": "Equipo de sonido Sony de 400W en perfecto estado",
-           "data": "Marca: Sony\nModelo: Genezi MHC-GT222\nPotencia: 400 W\nConectividad: AUDIO, CD, CINTA,SINTONIZADOR,USB\nFormato del minicomponente: Tradicional\nFormatos de audio: Altavoces, Ecualizador 3 bandas\nConexiones: CONEXIÓN USB, ENTRADA DE LÍNEA DE AUDIO (ANALÓGICA)"
+           "data": {
+            "Características": "Marca: Sony\nModelo: Genezi MHC-GT222\nPotencia: 400 W\nConectividad: AUDIO, CD, CINTA,SINTONIZADOR,USB\nFormato del minicomponente: Tradicional\nFormatos de audio: Altavoces, Ecualizador 3 bandas\nConexiones: CONEXIÓN USB, ENTRADA DE LÍNEA DE AUDIO (ANALÓGICA)"
+            },
+            "isSoldOut":false
        },
        {
            "id": "024",
@@ -684,7 +704,8 @@
            "full_description": "Lámpara",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "028",
@@ -725,7 +746,8 @@
            "full_description": "Perfecto para la iniciación musical de niños y adultos.",
            "data": {
                "Características": "Nombre: UKULELE CONCIERTO\nReferencia: UK-23Z NST KALANI\nMarca: KALANI\nEstuche: No incluye estuche\nMadera: Elaborado en Pino y Abeto\nTamaño: 58cm"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "040",
@@ -751,7 +773,8 @@
            "full_description": "Bandeja decorativa",
            "data": {
                "Características": "Marca: ZARA HOME"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "046",
@@ -792,7 +815,8 @@
            "full_description": "Soporte para rollo de papel absorbente.",
            "data": {
                "Características": "Material: Bambu"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "048",
@@ -810,7 +834,8 @@
            "full_description": "Gancho para pantalones y/o camisas. Valor por unidad. 2 unidades disponibles",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "049",
@@ -855,7 +880,8 @@
            "full_description": "Florero",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "051",
@@ -953,7 +979,8 @@
            "full_description": "Caja para tés",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "056",
@@ -972,7 +999,7 @@
            "data": {
                "Características": "Paquete x6. Completamente nuevas"
            },
-           "isSoldOut": true
+           "isSoldOut": false
        },
        {
            "id": "057",
@@ -990,7 +1017,8 @@
            "full_description": "Frutero",
            "data": {
                "Características": "Material: Vidrio y base metálica"
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "058",
@@ -1012,7 +1040,8 @@
            "full_description": "Exprimidor de cítricos",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        },
        {
            "id": "059",
@@ -1034,7 +1063,8 @@
            "full_description": "Mini Wafflera",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut":false
        }
    ]
 }
