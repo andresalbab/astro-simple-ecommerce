@@ -342,7 +342,8 @@
            "full_description": "Freidora de aire en perfecto estado con 1.5 años de uso",
            "data": {
                "Características": "Marca: Nuo home\nColor: Negro\nCapacidad: 3.2 litros"
-           }
+           },
+           "isSoldOut": true
        },
        {
            "id": "019",
@@ -730,7 +731,8 @@
            "full_description": "Porta vasos cuadrado",
            "data": {
                "Características": ""
-           }
+           },
+           "isSoldOut": true
        },
        {
            "id": "054",
@@ -789,7 +791,8 @@
            "full_description": "Toallas de microfibra",
            "data": {
                "Características": "Paquete x6. Completamente nuevas"
-           }
+           },
+           "isSoldOut": true
        },
        {
            "id": "057",
