@@ -1,5 +1,185 @@
 {
    "products": [
+      {
+         "id": "009",
+         "thumb_src": "images/thumbs/9.jpg",
+         "thumb_alt": "mesa_centro",
+         "images": [
+             {
+                 "src": "images/products/9A.jpg",
+                 "alt": "imagen_1"
+             },
+             {
+                 "src": "images/products/9B.jpg",
+                 "alt": "imagen_2"
+             }
+         ],
+         "title": "Mesa de centro",
+         "price": 75000,
+         "description": "Mesa de centro color blanco",
+         "full_description": "Mesa de centro color blanco",
+         "data": {
+             "Características": "Mesa de centro color blanco\nDimensiones: 70 cm x 40 cm x 50 cm"
+         }
+     },
+      {
+         "id": "070",
+         "thumb_src": "images/thumbs/70.jpg",
+         "thumb_alt": "ventilador",
+         "images": [
+             {
+                 "src": "images/products/70A.jpg",
+                 "alt": "imagen_1"
+             },
+             {
+                 "src": "images/products/70B.jpg",
+                 "alt": "imagen_2"
+             }
+         ],
+         "title": "Ventilador",
+         "price": 60000,
+         "description": "Ventilador de piso de 3 velocidades",
+         "full_description": "Ventilador de piso marca Aiwa de 3 velocidades. Lo usabamos para secar la ropa, funciona súper bien.",
+         "data": {
+             "Características": ""
+         }
+     },
+      {
+         "id": "071",
+         "thumb_src": "images/thumbs/71.jpg",
+         "thumb_alt": "rizador",
+         "images": [
+             {
+                 "src": "images/products/71.jpg",
+                 "alt": "imagen_1"
+             }
+         ],
+         "title": "Rizador",
+         "price": 60000,
+         "description": "Rizador de pelo eléctrico",
+         "full_description": "Rizador de pelo eléctrico",
+         "data": {
+             "Características": ""
+         }
+     },
+      {
+         "id": "072",
+         "thumb_src": "images/thumbs/72.jpg",
+         "thumb_alt": "caja_herramientas",
+         "images": [
+             {
+                 "src": "images/products/72.jpg",
+                 "alt": "imagen_1"
+             }
+         ],
+         "title": "Caja de herramientas",
+         "price": 35000,
+         "description": "Juego de herramientas de 7 piezas",
+         "full_description": "Juego de herramientas de 7 piezas. Ideal para uso en el carro y hogar y reparaciones en general.",
+         "data": {
+             "Características": "Contiene bisturí\nMartillo 8 Oz.\nDestornillador pala 6x4\nDestronillador phillips PH1 4\"\nAlicate 2 posiciones 6\"\nFlexómetro 5m"
+         }
+     },
+     {
+         "id": "073",
+         "thumb_src": "images/thumbs/73.jpg",
+         "thumb_alt": "mesa_exterior",
+         "images": [
+             {
+                 "src": "images/products/73A.jpg",
+                 "alt": "imagen_1"
+             },
+             {
+                 "src": "images/products/73B.jpg",
+                 "alt": "imagen_2"
+             },
+             {
+                 "src": "images/products/73C.jpg",
+                 "alt": "imagen_3"
+             }
+         ],
+         "title": "Mesa plegable",
+         "price": 70000,
+         "description": "Ideal para uso en exteriores",
+         "full_description": "Color blanco. Ideal para uso en exteriores. Altura variable",
+         "data": {
+             "Características": "Dimensiones: 76 cm x 50 cm x 50/64/74 cm"
+         }
+     },
+     {
+         "id": "074",
+         "thumb_src": "images/thumbs/74.jpg",
+         "thumb_alt": "escritorio_plegable",
+         "images": [
+             {
+                 "src": "images/products/74A.jpg",
+                 "alt": "imagen_1"
+             },
+             {
+                 "src": "images/products/74B.jpg",
+                 "alt": "imagen_2"
+             }
+         ],
+         "title": "Escritorio plegable",
+         "price": 140000,
+         "description": "Mesa plegable para uso de escritorio",
+         "full_description": "Mesa plegable para uso de escritorio, color blanco. Liviano y fácil de guardar.",
+         "data": {
+             "Características": "Dimensiones: 95 cm x 50 cm x 72 cm"
+         }
+     },
+     {
+         "id": "075",
+         "thumb_src": "images/thumbs/75.jpg",
+         "thumb_alt": "colador_bowl",
+         "images": [
+             {
+                 "src": "images/products/75A.jpg",
+                 "alt": "imagen_1"
+             },
+             {
+                 "src": "images/products/75B.jpg",
+                 "alt": "imagen_2"
+             }
+         ],
+         "title": "Colador + Bowl",
+         "price": 20000,
+         "description": "Marca Tasty",
+         "full_description": "Colador + Bowl Marca Tasty En Plástico Azul Y Rojo. Ideal para pasta",
+         "data": {
+             "Características": ""
+         }
+     },
+      {
+           "id": "007",
+           "thumb_src": "images/thumbs/7.jpg",
+           "thumb_alt": "sala",
+           "images": [
+               {
+                   "src": "images/products/7A.jpg",
+                   "alt": "imagen_1"
+               },
+               {
+                   "src": "images/products/7B.jpg",
+                   "alt": "imagen_2"
+               },
+               {
+                   "src": "images/products/7C.jpg",
+                   "alt": "imagen_3"
+               },
+               {
+                   "src": "images/products/7D.jpg",
+                   "alt": "imagen_4"
+               }
+           ],
+           "title": "Sala",
+           "price": 1700000,
+           "description": "Sala con un sofa de 3 puestos y dos poltronas",
+           "full_description": "Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos",
+           "data": {
+               "Características": "Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos"
+           }
+       },
        {
            "id": "007",
            "thumb_src": "images/thumbs/7.jpg",
