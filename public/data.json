@@ -206,7 +206,7 @@
          "data":{
             "Características":"Incluye: 3 pocillos(280ml)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"037",
@@ -935,7 +935,7 @@
          "data":{
             "Características":"Muebles de sala con sofa de 3 puestos (sofacama), 2 poltronas y 2 cojines decorativos"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"001",
@@ -1465,7 +1465,7 @@
          "data":{
             "Características":"Nombre: UKULELE CONCIERTO\nReferencia: UK-23Z NST KALANI\nMarca: KALANI\nEstuche: No incluye estuche\nMadera: Elaborado en Pino y Abeto\nTamaño: 58cm"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"040",
