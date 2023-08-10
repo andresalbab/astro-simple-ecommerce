@@ -330,7 +330,7 @@
          "data":{
             "Características":"Marco Ontrail de aluminio\nTalla M 49cm\nGrupo sunrace\n7 velocidades doble plato\nRin 25\nCon pedales automáticos shimano SM-SH11"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"062",
@@ -467,10 +467,10 @@
          ],
          "title":"Casco Talla M",
          "price":30000,
-         "description":"Casco Talla M - 2 unds.",
+         "description":"Casco Talla M",
          "full_description":"Casco Talla M",
          "data":{
-            "Características":"Precio por unidad. Disponibles: 2 unidades"
+            "Características":"Precio por unidad. Disponibles: 1 unidades"
          },
          "isSoldOut":false
       },
@@ -808,7 +808,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"072",
