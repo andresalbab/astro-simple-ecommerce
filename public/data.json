@@ -63,7 +63,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"021",
@@ -827,7 +827,7 @@
          "data":{
             "Características":"Contiene bisturí\nMartillo 8 Oz.\nDestornillador pala 6x4\nDestronillador phillips PH1 4\"\nAlicate 2 posiciones 6\"\nFlexómetro 5m"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"073",
@@ -875,13 +875,13 @@
             }
          ],
          "title":"Escritorio plegable",
-         "price":140000,
+         "price":120000,
          "description":"Mesa plegable para uso de escritorio",
          "full_description":"Mesa plegable para uso de escritorio, color blanco. Liviano y fácil de guardar.",
          "data":{
             "Características":"Dimensiones: 95 cm x 50 cm x 72 cm"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"075",
@@ -989,7 +989,7 @@
          "data":{
             "Características":"Marca: Pata sola Carpintería\nDimensiones: 100x60x75 (Largo x Profundo x Alto)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"006",
