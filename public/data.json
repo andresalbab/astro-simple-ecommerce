@@ -17,7 +17,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"076",
@@ -537,7 +537,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"081",
@@ -1698,7 +1698,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"056",
@@ -1717,7 +1717,7 @@
          "data":{
             "Características":"Paquete x6. Completamente nuevas"
          },
-         "isSoldOut":true
+         "isSoldOut":false
       },
       {
          "id":"057",
