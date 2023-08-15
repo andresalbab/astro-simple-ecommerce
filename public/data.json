@@ -90,7 +90,7 @@
          "data":{
             "Características":"Medidas: 52cm (alto), 21.5cm (ancho), 41.5 (profundidad)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"030",
@@ -960,7 +960,7 @@
             }
          ],
          "title":"Cajas organizadoras",
-         "price":240000,
+         "price":180000,
          "description":"6 cajas organizadoras color crema con manijas",
          "full_description":"6 cajas organizadoras color crema con manijas",
          "data":{
@@ -1110,7 +1110,7 @@
             }
          ],
          "title":"Raclette",
-         "price":325000,
+         "price":280000,
          "description":"Raclette marca Hamilton beach completamente nueva",
          "full_description":"Raclette marca Hamilton beach completamente nueva",
          "data":{
@@ -1206,7 +1206,7 @@
             }
          ],
          "title":"Sillas de balcón",
-         "price":225000,
+         "price":200000,
          "description":"Protección UV para proteger de luz y agua",
          "full_description":"Protección UV para proteger de luz y agua. Aptas para interiores y exteriores",
          "data":{
@@ -1225,7 +1225,7 @@
             }
          ],
          "title":"Smart TV 43 pulgadas",
-         "price":1200000,
+         "price":1000000,
          "description":"Smart TV 43 pulgadas, con control remoto incluído",
          "full_description":"Smart TV 43 pulgadas, con control remoto incluído",
          "data":{
