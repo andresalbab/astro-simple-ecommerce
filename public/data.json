@@ -3,7 +3,7 @@
       {
          "id":"029",
          "thumb_src":"images/thumbs/29.jpg",
-         "thumb_alt":"bowls",
+         "thumb_alt":"ganchos",
          "images":[
             {
                "src":"images/products/29.jpg",
@@ -40,7 +40,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"077",
@@ -1139,7 +1139,7 @@
          "data":{
             "Características":"Capacidad de carga: 20 kilogramos\nDimensiones: Ancho x Alto x Fondo 69x98x80cm"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"014",
