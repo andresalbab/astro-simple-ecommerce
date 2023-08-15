@@ -359,7 +359,7 @@
             }
          ],
          "title":"Play Station 4 Pro",
-         "price":1600000,
+         "price":1250000,
          "description":"Play Station 4 Pro",
          "full_description":"Play Station 4 Pro",
          "data":{
@@ -411,7 +411,7 @@
          "data":{
             "Características":"Multitoma de 3 salidas y 4 puertos USB. Cable de 2.5m"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"066",
@@ -472,7 +472,7 @@
          "data":{
             "Características":"Precio por unidad. Disponibles: 1 unidades"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"078",
