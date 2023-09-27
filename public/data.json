@@ -244,7 +244,7 @@
          "data":{
             "Características":"Incluye: 4 copas"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"060",
@@ -283,7 +283,7 @@
          "data":{
             "Características":"Bicicleta de montaña marca Fury Triton\nGrupo shimano tourney 7 velocidades\nFreno de disco\nColor: Negro-azul"
          },
-         "isSoldOut":false
+         "isSoldOut": true
       },
       {
          "id":"061",
@@ -365,7 +365,7 @@
          "data":{
             "Características":"3 años de uso\nIncluye: 2 controles con soporte para carga y 2 juegos (COD Modern Warefare, FIFA 20)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"063",
@@ -388,7 +388,7 @@
          "data":{
             "Características":""
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"065",
@@ -491,7 +491,7 @@
          "data":{
             "Características":"Incluye: 1 taza (250ml), 1/2 taza (125ml), 1/3 taza (80ml), 1/4 taza (60ml), 1/8 taza (30ml)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"079",
@@ -510,7 +510,7 @@
          "data":{
             "Características":"Set de 4 cucharas medidoras de Ambiente Gourmet. Material: Acero inoxidable. Incluye 1 tbsp (15ml), 1 tsp (7,5ml), 1/2 tsp (5ml), 1/4 tsp (2,5ml)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"080",
@@ -766,7 +766,7 @@
          "data":{
             "Características":"Mesa de centro color blanco\nDimensiones: 70 cm x 40 cm x 50 cm"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"070",
@@ -1116,7 +1116,7 @@
          "data":{
             "Características":"100% nueva"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"013",
@@ -1162,7 +1162,7 @@
          "data":{
             "Características":"Almacenamiento: 368 litros.\nDimensiones: Ancho x alto x fondo 68x172x67cm"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"015",
@@ -1354,7 +1354,7 @@
          "data":{
             "Características":"Marca: Sony\nModelo: Genezi MHC-GT222\nPotencia: 400 W\nConectividad: AUDIO, CD, CINTA,SINTONIZADOR,USB\nFormato del minicomponente: Tradicional\nFormatos de audio: Altavoces, Ecualizador 3 bandas\nConexiones: CONEXIÓN USB, ENTRADA DE LÍNEA DE AUDIO (ANALÓGICA)"
          },
-         "isSoldOut":false
+         "isSoldOut":true
       },
       {
          "id":"024",
